@@ -1,0 +1,16 @@
+
+
+{
+  "name": "02_lucians_luscious_lasagna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Roger Acosta",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
