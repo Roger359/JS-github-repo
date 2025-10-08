@@ -17,19 +17,21 @@ This repository is dedicated to learning and mastering JavaScript through practi
 
 ```
 
+
 ```
 
 ## Current Projects
 
 - **helloWorld**: Goal print helloWorld and tested it.
 - **Lucian's Luscious Lasagna**: 🔍 You've unlocked 4 concepts: 🧩 **Booleans** 🔢 **Numbers** ➕ **Arithmetic Operators** 💬 **Strings**
+- **Annalyn's Infiltration**: 🔍 You've unlocked 4 concepts: **Conditionals**, **Comparison**
 
 
 ## Glossary
 
-- **Closure**: A function with preserved data from its lexical scope.
-- **Promise**: An object representing the eventual completion or failure of an async operation.
-- **Callback**: A function passed as an argument to another function to be executed later.
+- **Print**: 
+- **Booleans**: An object representing the eventual completion or failure of an async operation.
+- **Numbers**: A function passed as an argument to another function to be executed later.
 
 ## Features
 
@@ -41,3 +43,4 @@ This repository is dedicated to learning and mastering JavaScript through practi
 ---
 
 Contributions and suggestions are welcome!
+
