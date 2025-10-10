@@ -1,0 +1,15 @@
+{
+	"name": "05_poetry_club_door_policy",
+	"version": "1.0.0",
+	"description": "This learning exercise helped evolve your knowledge of Strings.",
+	"main": "script.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "Roger Acosta",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
