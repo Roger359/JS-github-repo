@@ -16,22 +16,25 @@ This repository is dedicated to learning and mastering JavaScript through practi
 ## Project Structure
 
 ```
-
+JS-Github-repo/
+├── .git                   
+├── 01_helloWorld/
+├── 02_Lucians_Luscious_Lasagna/          
+├── 03_Annalyns_Infiltration/ 
+├── 04_Freelancer_Rates/
+├── 05_Poetry_Club_Door_Policy/          
+└── README.md             
 
 ```
 
 ## Current Projects
 
 - **helloWorld**: Goal print helloWorld and tested it.
-- **Lucian's Luscious Lasagna**: 🔍 You've unlocked 4 concepts: 🧩 **Booleans** 🔢 **Numbers** ➕ **Arithmetic Operators** 💬 **Strings**
-- **Annalyn's Infiltration**: 🔍 You've unlocked 4 concepts: **Conditionals**, **Comparison**
+- **Lucian's Luscious Lasagna**: 🔍 You've unlocked 4 concepts: 🧩 **CONSTANT DECLARATION** 🔢 **Numbers** ➕ **Arithmetic Operators**, **Functions**
+- **Annalyn's Infiltration**: 🔍 You've unlocked 4 concepts: **Booleans**, **Logical Operators**, **Conditionals**, **Comparison**
+- **Freelancer Rates**: 🔍 You've unlocked 5 concepts: **Conditionals**, **Comparison**, **Functions**, 🔢 **Numbers**, 🔢 **Arithmetic Operators**
+- **Poetry Club Door Policy**: 🔍 You've unlocked 4 concepts: **Strings**, **Comparison**, **Conditionals**, **Functions**, **Strings Methods**
 
-
-## Glossary
-
-- **Print**: 
-- **Booleans**: An object representing the eventual completion or failure of an async operation.
-- **Numbers**: A function passed as an argument to another function to be executed later.
 
 ## Features
 

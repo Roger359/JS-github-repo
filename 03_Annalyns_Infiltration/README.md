@@ -3,6 +3,8 @@
 This learning exercise helped evolve your knowledge of [Booleans](#).
 
 ### You've unlocked 2 concepts:
+- **Booleans**
+- **Logical Operators**
 - **Conditionals**
 - **Comparison**
 

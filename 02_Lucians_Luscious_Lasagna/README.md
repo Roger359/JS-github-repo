@@ -3,10 +3,10 @@
 This learning exercise helped evolve your knowledge of **Basics**.
 
 ### 🔍 You've unlocked 4 concepts:
-- 🧩 **Booleans**
+- 🧩 **CONSTANT DECLARATION**
 - 🔢 **Numbers**
 - ➕ **Arithmetic Operators**
-- 💬 **Strings**
+- ➕ **Functions**
 
 ## 📘 Introduction
 
