@@ -3,10 +3,11 @@
 This learning exercise helped evolve your knowledge of **Numbers** and **Arithmetic Operators**.
 
 ### 🔍 You've unlocked 4 concepts:
-- 🧩 **Arrays**
-- 🔢 **Conditionals**
+- 🔢 **Numbers**
+- 🔢 **Arithmetic Operators**
+- ➕ **Functions**
 - ➕ **Comparison**
-- 💬 **Objects**
+
 
 ## 📘 Introduction
 
