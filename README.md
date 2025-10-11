@@ -23,6 +23,7 @@ JS-Github-repo/
 ├── 03_Annalyns_Infiltration/ 
 ├── 04_Freelancer_Rates/
 ├── 05_Poetry_Club_Door_Policy/          
+├── 06_Elyses_Enchantments/          
 └── README.md             
 
 ```
@@ -34,6 +35,8 @@ JS-Github-repo/
 - **Annalyn's Infiltration**: 🔍 You've unlocked 4 concepts: **Booleans**, **Logical Operators**, **Conditionals**, **Comparison**
 - **Freelancer Rates**: 🔍 You've unlocked 5 concepts: **Conditionals**, **Comparison**, **Functions**, 🔢 **Numbers**, 🔢 **Arithmetic Operators**
 - **Poetry Club Door Policy**: 🔍 You've unlocked 4 concepts: **Strings**, **Comparison**, **Conditionals**, **Functions**, **Strings Methods**
+- **Elyses Enchantments**: 🔍 You've unlocked 3 concepts: **Arrays**, **Arrays Methods**, **Length**
+
 
 
 ## Features
