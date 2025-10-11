@@ -1,0 +1,15 @@
+{
+  "name": "06_elyses_enchantments",
+  "version": "1.0.0",
+  "description": " This learning exercise helped evolve your knowledge of Increment/Decrement, For Loops, While Loops, Switch Statement.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Roger Acosta",
+  "license": "ISC",
+  "devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
