@@ -17,27 +17,31 @@ This repository is dedicated to learning and mastering JavaScript through practi
 
 ```
 JS-Github-repo/
-├── .git                   
+├── .git
 ├── 01_helloWorld/
-├── 02_Lucians_Luscious_Lasagna/          
-├── 03_Annalyns_Infiltration/ 
+├── 02_Lucians_Luscious_Lasagna/
+├── 03_Annalyns_Infiltration/
 ├── 04_Freelancer_Rates/
-├── 05_Poetry_Club_Door_Policy/          
-├── 06_Elyses_Enchantments/          
-└── README.md             
+├── 05_Poetry_Club_Door_Policy/
+├── 06_Elyses_Enchantments/
+├── 07_vehicle_purchase/
+├── 08_Bird_Watcher/
+├── 09_Mixed_Juices/
+└── README.md
 
 ```
 
 ## Current Projects
 
-- **helloWorld**: Goal print helloWorld and tested it.
-- **Lucian's Luscious Lasagna**: 🔍 You've unlocked 4 concepts: 🧩 **CONSTANT DECLARATION** 🔢 **Numbers** ➕ **Arithmetic Operators**, **Functions**
-- **Annalyn's Infiltration**: 🔍 You've unlocked 4 concepts: **Booleans**, **Logical Operators**, **Conditionals**, **Comparison**
-- **Freelancer Rates**: 🔍 You've unlocked 5 concepts: **Conditionals**, **Comparison**, **Functions**, 🔢 **Numbers**, 🔢 **Arithmetic Operators**
-- **Poetry Club Door Policy**: 🔍 You've unlocked 4 concepts: **Strings**, **Comparison**, **Conditionals**, **Functions**, **Strings Methods**
-- **Elyses Enchantments**: 🔍 You've unlocked 3 concepts: **Arrays**, **Arrays Methods**, **Length**
-
-
+- [**helloWorld**](https://github.com/Roger359/JS-github-repo/tree/main/01_helloWorld): Goal print helloWorld and tested it.
+- [**Lucian's Luscious Lasagna**](https://github.com/Roger359/JS-github-repo/tree/main/02_Lucians_Luscious_Lasagna): 🔍 You've unlocked 4 concepts: 🧩 **CONSTANT DECLARATION** 🔢 **Numbers** ➕ **Arithmetic Operators**, **Functions**
+- [**Annalyn's Infiltration**](https://github.com/Roger359/JS-github-repo/tree/main/03_Annalyns_Infiltration): 🔍 You've unlocked 4 concepts: **Booleans**, **Logical Operators**, **Conditionals**, **Comparison**
+- [**Freelancer Rates**](https://github.com/Roger359/JS-github-repo/tree/main/04_Freelancer_Rates): 🔍 You've unlocked 5 concepts: **Conditionals**, **Comparison**, **Functions**, 🔢 **Numbers**, 🔢 **Arithmetic Operators**
+- [**Poetry Club Door Policy**](https://github.com/Roger359/JS-github-repo/tree/main/05_Poetry_Club_Door_Policy): 🔍 You've unlocked 4 concepts: **Strings**, **Comparison**, **Conditionals**, **Functions**, **Strings Methods**
+- [**Elyses Enchantments**](https://github.com/Roger359/JS-github-repo/tree/main/06_Elyses_Enchantments): 🔍 You've unlocked 3 concepts: **Arrays**, **Arrays Methods**, **Length**
+- [**Vehicle Purchase**](https://github.com/Roger359/JS-github-repo/tree/main/07_vehicle_purchase): 🔍 You've unlocked 3 concepts: **Conditionals**, **Comparison**, **Increment/Decrement**
+- [**Bird Watcher**](https://github.com/Roger359/JS-github-repo/tree/main/08_Bird_Watcher): 🔍 You've unlocked 3 concepts: **Increment/Decrement**, **Comparison**, **Loops**
+- [**Mixed Juices**](https://github.com/Roger359/JS-github-repo/tree/main/09_Mixed_Juices): 🔍 You've unlocked 2 concepts: **While Loops**, **Switch Statement**
 
 ## Features
 
@@ -49,4 +53,3 @@ JS-Github-repo/
 ---
 
 Contributions and suggestions are welcome!
-
