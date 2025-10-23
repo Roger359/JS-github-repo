@@ -1,0 +1,16 @@
+{
+  "name": "09_Mixed_Juices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.3",
+   "devDependencies":{
+    "jest":"^29.7.0"
+}
+}
