@@ -15,7 +15,7 @@ This repository is dedicated to learning and mastering JavaScript through practi
 
 ## Project Structure
 
-```
+```js
 JS-Github-repo/
 ├── .git
 ├── 01_helloWorld/
@@ -27,6 +27,7 @@ JS-Github-repo/
 ├── 07_vehicle_purchase/
 ├── 08_Bird_Watcher/
 ├── 09_Mixed_Juices/
+├── 10_high_score_board/
 └── README.md
 
 ```
@@ -42,6 +43,7 @@ JS-Github-repo/
 - [**Vehicle Purchase**](https://github.com/Roger359/JS-github-repo/tree/main/07_vehicle_purchase): 🔍 You've unlocked 3 concepts: **Conditionals**, **Comparison**, **Increment/Decrement**
 - [**Bird Watcher**](https://github.com/Roger359/JS-github-repo/tree/main/08_Bird_Watcher): 🔍 You've unlocked 3 concepts: **Increment/Decrement**, **Comparison**, **Loops**
 - [**Mixed Juices**](https://github.com/Roger359/JS-github-repo/tree/main/09_Mixed_Juices): 🔍 You've unlocked 2 concepts: **While Loops**, **Switch Statement**
+- [**High Score board**](https://github.com/Roger359/JS-github-repo/tree/main/10_high_score_board): 🔍 You've unlocked 3 concept: **Objetcs**, **Dot Notation** **Bracket Notation**
 
 ## Features
 
