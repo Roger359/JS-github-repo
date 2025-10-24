@@ -28,6 +28,7 @@ JS-Github-repo/
 ├── 08_Bird_Watcher/
 ├── 09_Mixed_Juices/
 ├── 10_high_score_board/
+├── 11_amusement_park/
 └── README.md
 
 ```
@@ -44,6 +45,7 @@ JS-Github-repo/
 - [**Bird Watcher**](https://github.com/Roger359/JS-github-repo/tree/main/08_Bird_Watcher): 🔍 You've unlocked 3 concepts: **Increment/Decrement**, **Comparison**, **Loops**
 - [**Mixed Juices**](https://github.com/Roger359/JS-github-repo/tree/main/09_Mixed_Juices): 🔍 You've unlocked 2 concepts: **While Loops**, **Switch Statement**
 - [**High Score board**](https://github.com/Roger359/JS-github-repo/tree/main/10_high_score_board): 🔍 You've unlocked 3 concept: **Objetcs**, **Dot Notation** **Bracket Notation**
+- [**Amusement Park**](https://github.com/Roger359/JS-github-repo/tree/main/11_amusement_park): 🔍 You've unlocked 5 concept: **Null**, **Undefined** **Optional Chaning** **Nullish Coalescing**
 
 ## Features
 
