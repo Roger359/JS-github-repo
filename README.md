@@ -29,6 +29,7 @@ JS-Github-repo/
 ├── 09_Mixed_Juices/
 ├── 10_high_score_board/
 ├── 11_amusement_park/
+├── 12_lucky_numbers/
 └── README.md
 
 ```
@@ -46,6 +47,7 @@ JS-Github-repo/
 - [**Mixed Juices**](https://github.com/Roger359/JS-github-repo/tree/main/09_Mixed_Juices): 🔍 You've unlocked 2 concepts: **While Loops**, **Switch Statement**
 - [**High Score board**](https://github.com/Roger359/JS-github-repo/tree/main/10_high_score_board): 🔍 You've unlocked 3 concept: **Objetcs**, **Dot Notation** **Bracket Notation**
 - [**Amusement Park**](https://github.com/Roger359/JS-github-repo/tree/main/11_amusement_park): 🔍 You've unlocked 5 concept: **Null**, **Undefined** **Optional Chaning** **Nullish Coalescing**
+- [**Lucky Numbers**](https://github.com/Roger359/JS-github-repo/tree/main/12_lucky_numbers): 🔍 You've unlocked 3 concept: **Type coercion**, **Type conversion** **Bitwise**
 
 ## Features
 
