@@ -30,6 +30,7 @@ JS-Github-repo/
 ├── 10_high_score_board/
 ├── 11_amusement_park/
 ├── 12_lucky_numbers/
+├── 13_lasagna_master/
 └── README.md
 
 ```
@@ -48,6 +49,7 @@ JS-Github-repo/
 - [**High Score board**](https://github.com/Roger359/JS-github-repo/tree/main/10_high_score_board): 🔍 You've unlocked 3 concept: **Objetcs**, **Dot Notation** **Bracket Notation**
 - [**Amusement Park**](https://github.com/Roger359/JS-github-repo/tree/main/11_amusement_park): 🔍 You've unlocked 5 concept: **Null**, **Undefined** **Optional Chaning** **Nullish Coalescing**
 - [**Lucky Numbers**](https://github.com/Roger359/JS-github-repo/tree/main/12_lucky_numbers): 🔍 You've unlocked 3 concept: **Type coercion**, **Type conversion** **Bitwise**
+- [**Lasagna Master**](https://github.com/Roger359/JS-github-repo/tree/main/13_lasagna_master): 🔍 You've unlocked 1 concept: **Function**
 
 ## Features
 
